@@ -1,40 +1,31 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+
 
 # Project Name
 
-> This is the Hello Prject
+> Hello Microverse Project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML 
+- CSS
 
-## Live Demo (if available)
 
-[Live Demo Link]()
+
+
+
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
+-Git hub account.
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+-Navigate to [MICROVERSE001R](https://github.com/borrnelsonk/microverse001R)
+-Go to section
+-Choose download Zip or Clone using https/ssh/Github CLI
 
 
 
@@ -42,21 +33,16 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/borrnelsonk)
+- Twitter: [@twitterhandle](https://twitter.com/bornesonk)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/bornelsonk)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/borrnelsonk/microverse001R/issues).
 
 ## Show your support
 
@@ -64,12 +50,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- My coding partner Herz
+
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/borrnelsonk/microverse001R/blob/main/LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
